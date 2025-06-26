@@ -31,4 +31,6 @@ Freelancing Platform - MERN Stack  A MERN-based freelancing app with three user 
 
 ## 🛠️ Installation  
 1. **Clone the repo**  
-   ```bash  
+   ```bash
+    git clone https://github.com/your-username/Full-Stack-Developer-MERN-Stack.git  
+   cd Full-Stack-Developer-MERN-Stack  
